@@ -8,7 +8,7 @@ Clean design, beginner-friendly logic, and responsive UI make this mini project 
 
 ## 📸 Preview
 
-![Temperature Converter Preview](./temp_converter.png) <!-- Replace with real image if you have -->
+![Temperature Converter Preview](./Temp_converter.png) <!-- Replace with real image if you have -->
 
 ---
 
